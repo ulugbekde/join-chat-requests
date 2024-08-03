@@ -10,5 +10,5 @@ Kanalga va guruhga kelgan qo'shilish so'rovlarini avto qabul qilish uchun ishlat
 - [Youtube](https://youtube.com/@ulugbekweb)
 - [Instagram](https://instagram.com/UlugbekWeb)
 - [Github](https://github.com/ulugbekde/)
-- [Website](https://xunix.uz)
+- [Website](https://ulugbekweb.uz)
   
