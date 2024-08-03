@@ -147,12 +147,12 @@ if (isset($update->chat_join_request)) {
             'reply_markup' => $share
         ]);
     } else {
-        bot('sendMessage', [
-            'chat_id' => $admin,
-            'text' => "<b>Xato: </b>".$response->description,
-            'parse_mode' => 'html',
-            'reply_markup' => $panel
-        ]);
+        // bot('sendMessage', [
+        //     'chat_id' => $admin,
+        //     'text' => "<b>Xato: </b>".$response->description,
+        //     'parse_mode' => 'html',
+        //     'reply_markup' => $panel
+        // ]);
     }
 }
 
